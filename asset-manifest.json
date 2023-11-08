@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/rock-paper-scissors-lizard-spock/static/css/main.e341e00a.css",
-    "main.js": "/rock-paper-scissors-lizard-spock/static/js/main.0c37223a.js",
+    "main.js": "/rock-paper-scissors-lizard-spock/static/js/main.a38b5685.js",
     "index.html": "/rock-paper-scissors-lizard-spock/index.html",
-    "main.0c37223a.js.map": "/rock-paper-scissors-lizard-spock/static/js/main.0c37223a.js.map"
+    "main.a38b5685.js.map": "/rock-paper-scissors-lizard-spock/static/js/main.a38b5685.js.map"
   },
   "entrypoints": [
     "static/css/main.e341e00a.css",
-    "static/js/main.0c37223a.js"
+    "static/js/main.a38b5685.js"
   ]
 }
